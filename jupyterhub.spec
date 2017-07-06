@@ -80,5 +80,5 @@ gulp css
 
 
 %changelog
-* Thu Jul 6 2017 Steve Jones <stephen.jones@equalexpets.com> - 0.1
+* Thu Jul 6 2017 Steve Jones <stephen.jones@equalexperts.com> - 0.1
 - Initial package
